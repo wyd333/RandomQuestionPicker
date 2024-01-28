@@ -1,0 +1,19 @@
+6、为什么HashMap要使用红黑树？;0
+2、HashMap底层是如何实现的？;0
+17、HashTable和ConcurrentHashMap的区别？;0
+14、为什么HashMap可以插入null，ConcurrentHashMap就不行？;0
+8、为什么负载因子是0.75？;0
+18、多线程环境使用顺序表的方式有？;0
+13、ConcurrentHashMap如何保证线程安全？（JDK 1.8）;0
+16、ConcurrentHashMap在jdk1.8做了哪些优化？;0
+4、什么情况下红黑树会退化成链表？;0
+5、为什么链表要升级为红黑树？;0
+3、说一下HashMap新增的流程？;0
+11、为什么多线程环境下HashMap可能会产生死循环？;0
+1、Hashtable和HashMap、ConcurrentHashMap 之间的区别？;0
+7、HashMap的重要参数有哪些？;0
+10、HashMap线程不安全的表现？;0
+15、ConcurrentHashMap的读是否要加锁，为什么？;0
+12、如何解决HashMap死循环？;0
+19、Java多线程基础-18：线程安全的集合类与ConcurrentHashMap(https://blog.csdn.net/wyd_333/article/details/135887149);0
+9、哈希冲突如何解决？;0
